@@ -12,7 +12,7 @@
 
 body {
   font-family: "roboto", sans-serif;
-  background-color: var(--white-text-color);
+  background-color: var(--white-color);
   color: var(--text-color);
 }
 
