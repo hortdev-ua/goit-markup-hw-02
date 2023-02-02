@@ -13,7 +13,7 @@
 body {
   font-family: "roboto", sans-serif;
   background-color: var(--white-text-color);
-  color: var(--primary-text-color);
+  color: var(--text-color);
 }
 
 ul {
@@ -126,19 +126,18 @@ ul {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-
+  color: var(--primary-text-color);
 }
 
 .title-text {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.1;
-
+  color: var(--primary-text-color);
 }
 .section-text {
   font-size: 16px;
   line-height: 1.5;
-  color: var(--text-color);
 }
 
 .team-section {
